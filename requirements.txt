@@ -1,0 +1,4 @@
+fastapi==0.75.1
+anyio==3.5.0
+requests==2.27.1
+redis==4.2.2  # make sure using Redis version ^6.2
